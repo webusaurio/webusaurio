@@ -3,7 +3,7 @@
 
   <hr/>
 
-  <h3>💻 Full Stack Software Developer at <a href="https://twitter.com/evidencetec">@evidencetec</a></h3>
+  <h3>💻 Developer Team Leader at <a href="https://twitter.com/evidencetec">@evidencetec</a></h3>
 
   <div>
     <a href="https://twitter.com/webusaurio">
