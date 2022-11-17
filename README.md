@@ -1,22 +1,10 @@
-<div align="center">
-  <h1>Hi there! I'm Adán Virrey 🧑‍💻</h1>
+# **Hi there! I'm Adán Virrey** 🧑‍💻
 
-  <hr/>
+***
 
-  <h3>💻 Developer Team Leader at <a href="https://twitter.com/evidencetec">@evidencetec</a></h3>
+## 💻 Developer Team Leader at [@evidencetec](https://twitter.com/evidencetec)
 
-  <div>
-    <a href="https://twitter.com/webusaurio">
-      <img src="./assets/twitter.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/adanvirrey/">
-      <img src="./assets/linkedin.svg" />
-    </a>
-  </div>
-</div>
-
-<hr />
-
+***
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webusaurio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adanvirrey) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@webusaurio) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9350997) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/webusaurio) 
