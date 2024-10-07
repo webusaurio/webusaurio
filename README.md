@@ -2,7 +2,7 @@
 
 ***
 
-## 💻 Developer Team Leader at [@evidencetec](https://twitter.com/evidencetec)
+## 💻 Developer Team Leader
 
 ***
 
